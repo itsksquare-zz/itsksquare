@@ -1,21 +1,42 @@
 <h1 align="center">Hi 👋, I'm KsquareDev</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A CSE Student from India trying to learn everything!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsksquaredev" alt="itsksquaredev" /> </p>
 
-- 🔭 I’m currently working on **Learning**
+* 🔭 I'm currently working on learning
+* 🌱 I’m currently learning everything
+* 🥅 Goals this year: Learn better programming skills and contribute more
+* ⚡ Fun Fact: Love pizzas & dismantling things to see what's inside
 
-- 🌱 I’m currently learning **Everything**
+<h3>Here's what I might be listening to on Spotify 🎧</h3>
 
-- 💬 Ask me about **how to learn xD**
 
-- 📫 How to reach me **itsksquaredev@gmail.com**
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpw2x1b)
 
-- ⚡ Fun fact **I love pizzas... wanna share one?**
+### Connect with me:
 
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></p>
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=itsksquaredev&show_icons=true" alt="itsksquaredev" /></p>
+<h3>Find me on:</h3>
 
-<p align="center">
-<a href="https://instagram.com/ig_ksquare" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ig_ksquare" height="30" width="30" /></a>
-</p>
+[<img align="left" alt="KsquareDev Twitter" width="22px" src="./icons/twitter.svg" />](https://twitter.com/itsksquaredev)
+[<img align="left" alt="KsquareDev Instagram" width="22px" src="./icons/instagram.svg" />](https://www.instagram.com/ig_ksquare/)
+[<img align="left" alt="KsquareDev Discord" width="22px" src="./icons/discord.svg" />](https://discord.gg/fKaA96B)
+[<img align="left" alt="KsquareDev CodePen" width="22px" src="./icons/codepen.svg" />](https://codepen.io/itsksquaredev)
+[<img align="left" alt="KsquareDev GitHub" width="22px" src="./icons/github.svg" />](https://github.com/itsksquaredev)
+
+
+
+
+
+### Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
+
+<details>
+  <summary>My Github Stats (Promise to make these better this year)</summary>
+  <img align="left" alt="KsquareDev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=itsksquaredev&show_icons=true&hide_border=true&theme=dark&include_all_commits=true&count_private=true&hide_title=true" />
+</details>
+
+<details>
+  <summary>My Most used Languages</summary>
+  <img align="left" alt="KsquareDev's Top Used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsksquaredev&layout=compact" />
+</details>
