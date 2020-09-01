@@ -8,6 +8,7 @@
 * ⚡ Fun Fact: Love pizzas & dismantling things to see what's inside
 
 <img src="https://itsksquaredev.vercel.app/api/spotify-playing" alt="KsquareDev Spotify" width="350" />
+![Spotify](https://itsksquaredev.vercel.app/api/spotify)
 
 <h3>Find me on:</h3>
 
