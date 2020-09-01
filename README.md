@@ -7,10 +7,6 @@
 * 🥅 Goals this year: Learn better programming skills and contribute more
 * ⚡ Fun Fact: Love pizzas & dismantling things to see what's inside
 
-<h3>Here's what I might be listening to on Spotify 🎧</h3>
-
-
-<img src="https://itsksquaredev.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />
 
 <h3>Find me on:</h3>
 
