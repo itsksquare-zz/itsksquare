@@ -12,7 +12,6 @@
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpw2x1b)
 
-### Connect with me:
 
 <h3>Find me on:</h3>
 
@@ -21,15 +20,27 @@
 [<img align="left" alt="KsquareDev Discord" width="22px" src="./icons/discord.svg" />](https://discord.gg/fKaA96B)
 [<img align="left" alt="KsquareDev CodePen" width="22px" src="./icons/codepen.svg" />](https://codepen.io/itsksquaredev)
 [<img align="left" alt="KsquareDev GitHub" width="22px" src="./icons/github.svg" />](https://github.com/itsksquaredev)
+</br>
 
 
+<h3>Languages & Tools that I use & I plan on learning:</h3>
 
-
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
+<img align="left" alt="Visual Studio Code" width="26px" src="./icons/javascript.svg" />
+<img align="left" alt="Visual Studio Code" width="26px" src="./icons/node-dot-js.svg" />
+<img align="left" alt="Visual Studio Code" width="26px" src="./icons/html5.svg" />
+<img align="left" alt="Visual Studio Code" width="26px" src="./icons/css3.svg" />
+<img align="left" alt="Visual Studio Code" width="26px" src="./icons/java.svg" />
+<img align="left" alt="Visual Studio Code" width="26px" src="./icons/python.svg" />
+<img align="left" alt="Visual Studio Code" width="26px" src="./icons/rust.svg" />
+<img align="left" alt="Visual Studio Code" width="26px" src="./icons/react.svg" />
+<img align="left" alt="Visual Studio Code" width="26px" src="./icons/typescript.svg" />
+<img align="left" alt="Visual Studio Code" width="26px" src="./icons/sass.svg" />
+<img align="left" alt="Visual Studio Code" width="26px" src="./icons/cplusplus.svg" />
+<img align="left" alt="Visual Studio Code" width="26px" src="./icons/flutter.svg" />
+<img align="left" alt="Visual Studio Code" width="26px" src="./icons/angular.svg" />
+<img align="left" alt="Visual Studio Code" width="26px" src="./icons/mysql.svg" />
+</br>
+</br>
 
 <details>
   <summary>My Github Stats (Promise to make these better this year)</summary>
