@@ -10,7 +10,7 @@
 
 <h3>Find me on:</h3>
 
-[<img align="left" alt="KsquareDev Twitter" width="22px" src="./icons/twitter.svg" />](https://twitter.com/itsksquaredev)
+[<img align="left" alt="KsquareDev Twitter" width="22px" src="https://github.com/itsksquaredev/itsksquaredev/blob/master/icons/twitter.svg" />](https://twitter.com/itsksquaredev)
 [<img align="left" alt="KsquareDev Instagram" width="22px" src="./icons/instagram.svg" />](https://www.instagram.com/ig_ksquare/)
 [<img align="left" alt="KsquareDev Discord" width="22px" src="./icons/discord.svg" />](https://discord.gg/fKaA96B)
 [<img align="left" alt="KsquareDev CodePen" width="22px" src="./icons/codepen.svg" />](https://codepen.io/itsksquaredev)
