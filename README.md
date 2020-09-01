@@ -44,4 +44,5 @@
 
 <h3>My Github Stats (Promise to make these better this year)</h3>
 <img align="left" alt="KsquareDev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=itsksquaredev&show_icons=true&hide_border=true&theme=dark&include_all_commits=true&count_private=true&hide_title=true" />
-<img align="right" alt="KsquareDev's Top Used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsksquaredev&layout=compact" />
+</br>
+<img align="left" alt="KsquareDev's Top Used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsksquaredev&layout=compact" />
