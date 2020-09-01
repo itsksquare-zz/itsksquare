@@ -11,30 +11,30 @@
 <h3>Find me on:</h3>
 
 [<img align="left" alt="KsquareDev Twitter" width="22px" src="https://github.com/itsksquaredev/itsksquaredev/blob/master/icons/twitter.svg" />](https://twitter.com/itsksquaredev)
-[<img align="left" alt="KsquareDev Instagram" width="22px" src="./icons/instagram.svg" />](https://www.instagram.com/ig_ksquare/)
-[<img align="left" alt="KsquareDev Discord" width="22px" src="./icons/discord.svg" />](https://discord.gg/fKaA96B)
-[<img align="left" alt="KsquareDev CodePen" width="22px" src="./icons/codepen.svg" />](https://codepen.io/itsksquaredev)
-[<img align="left" alt="KsquareDev GitHub" width="22px" src="./icons/github.svg" />](https://github.com/itsksquaredev)
-[<img align="left" alt="KsquareDev Vercel" width="22px" src="./icons/vercel.svg" />]()
+[<img align="left" alt="KsquareDev Instagram" width="22px" src="https://github.com/itsksquaredev/itsksquaredev/blob/master/icons/instagram.svg" />](https://www.instagram.com/ig_ksquare/)
+[<img align="left" alt="KsquareDev Discord" width="22px" src="https://github.com/itsksquaredev/itsksquaredev/blob/master/icons/discord.svg" />](https://discord.gg/fKaA96B)
+[<img align="left" alt="KsquareDev CodePen" width="22px" src="https://github.com/itsksquaredev/itsksquaredev/blob/master/icons/codepen.svg" />](https://codepen.io/itsksquaredev)
+[<img align="left" alt="KsquareDev GitHub" width="22px" src="https://github.com/itsksquaredev/itsksquaredev/blob/master/icons/github.svg" />](https://github.com/itsksquaredev)
+[<img align="left" alt="KsquareDev Vercel" width="22px" src="https://github.com/itsksquaredev/itsksquaredev/blob/master/icons/vercel.svg" />]()
 </br>
 
 
 <h3>Languages & Tools that I use & I plan on learning:</h3>
 
-<img align="left" alt="Visual Studio Code" width="26px" src="./icons/javascript.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" src="./icons/node-dot-js.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" src="./icons/html5.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" src="./icons/css3.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" src="./icons/java.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" src="./icons/python.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" src="./icons/rust.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" src="./icons/react.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" src="./icons/typescript.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" src="./icons/sass.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" src="./icons/cplusplus.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" src="./icons/flutter.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" src="./icons/angular.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" src="./icons/mysql.svg" />
+<img align="left" alt="JavaScript" width="26px" src="https://github.com/itsksquaredev/itsksquaredev/blob/master/icons/javascript.svg" />
+<img align="left" alt="NodeJS" width="26px" src="https://github.com/itsksquaredev/itsksquaredev/blob/master/icons/node-dot-js.svg" />
+<img align="left" alt="HTML5" width="26px" src="https://github.com/itsksquaredev/itsksquaredev/blob/master/icons/html5.svg" />
+<img align="left" alt="CSS3" width="26px" src="https://github.com/itsksquaredev/itsksquaredev/blob/master/icons/css3.svg" />
+<img align="left" alt="Java" width="26px" src="https://github.com/itsksquaredev/itsksquaredev/blob/master/icons/java.svg" />
+<img align="left" alt="Python" width="26px" src="https://github.com/itsksquaredev/itsksquaredev/blob/master/icons/python.svg" />
+<img align="left" alt="Rust" width="26px" src="https://github.com/itsksquaredev/itsksquaredev/blob/master/icons/rust.svg" />
+<img align="left" alt="React" width="26px" src="https://github.com/itsksquaredev/itsksquaredev/blob/master/icons/react.svg" />
+<img align="left" alt="TypeScript" width="26px" src="https://github.com/itsksquaredev/itsksquaredev/blob/master/icons/typescript.svg" />
+<img align="left" alt="Sass" width="26px" src="https://github.com/itsksquaredev/itsksquaredev/blob/master/icons/sass.svg" />
+<img align="left" alt="C++" width="26px" src="https://github.com/itsksquaredev/itsksquaredev/blob/master/icons/cplusplus.svg" />
+<img align="left" alt="Flutter" width="26px" src="https://github.com/itsksquaredev/itsksquaredev/blob/master/icons/flutter.svg" />
+<img align="left" alt="Angular" width="26px" src="https://github.com/itsksquaredev/itsksquaredev/blob/master/icons/angular.svg" />
+<img align="left" alt="MySQL" width="26px" src="https://github.com/itsksquaredev/itsksquaredev/blob/master/icons/mysql.svg" />
 </br>
 </br>
 
