@@ -10,7 +10,7 @@
 <h3>Here's what I might be listening to on Spotify 🎧</h3>
 
 
-<img src="https://https://itsksquaredev.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />
+<img src="https://itsksquaredev.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />
 
 <h3>Find me on:</h3>
 
