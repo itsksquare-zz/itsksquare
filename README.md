@@ -15,7 +15,6 @@
 [<img align="left" alt="KsquareDev Discord" width="22px" src="https://github.com/itsksquaredev/itsksquaredev/blob/master/icons/discord.svg" />](https://discord.gg/fKaA96B)
 [<img align="left" alt="KsquareDev CodePen" width="22px" src="https://github.com/itsksquaredev/itsksquaredev/blob/master/icons/codepen.svg" />](https://codepen.io/itsksquaredev)
 [<img align="left" alt="KsquareDev GitHub" width="22px" src="https://github.com/itsksquaredev/itsksquaredev/blob/master/icons/github.svg" />](https://github.com/itsksquaredev)
-[<img align="left" alt="KsquareDev Vercel" width="22px" src="https://github.com/itsksquaredev/itsksquaredev/blob/master/icons/vercel.svg" />](https://vercel.com/itsksquaredev)
 </br>
 
 
