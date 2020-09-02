@@ -34,6 +34,9 @@
 <img align="left" alt="Flutter" width="26px" src="https://github.com/itsksquaredev/itsksquaredev/blob/master/icons/flutter.svg" />
 <img align="left" alt="Angular" width="26px" src="https://github.com/itsksquaredev/itsksquaredev/blob/master/icons/angular.svg" />
 <img align="left" alt="MySQL" width="26px" src="https://github.com/itsksquaredev/itsksquaredev/blob/master/icons/mysql.svg" />
+<img align="left" alt="git" width="26px" src="https://github.com/itsksquaredev/itsksquaredev/blob/master/icons/git.svg" />
+<img align="left" alt="AWS" width="26px" src="https://github.com/itsksquaredev/itsksquaredev/blob/master/icons/amazonaws.svg" />
+<img align="left" alt="MongoDB" width="26px" src="https://github.com/itsksquaredev/itsksquaredev/blob/master/icons/mongodb.svg" />
 </br>
 </br>
 
